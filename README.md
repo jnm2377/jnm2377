@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm just a regular girl trying to make cool shit with code. 
+
+### 📫 Holla at your girl: 
+
+josefinanoemi4@gmail.com
+
 <!--
 **jnm2377/jnm2377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
